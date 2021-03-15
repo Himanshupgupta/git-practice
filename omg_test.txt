@@ -1,0 +1,8 @@
+1901020000082	Delhi	Not working	Sent to bangalore	Sent date 27/Feb
+1901020000092	Gurgaon	Not working	Sent to bangalore	Sent date 27/Feb
+1901020000093	Gurgaon	Not working	Sent to bangalore	Sent date 27/Feb
+1901020000910	Delhi	not working	Sent to bangalore	Sent date 27/Feb
+1901020000911	Delhi	Not working	Sent to bangalore	Sent date 27/Feb
+1901020000920	GGN	Not working	Sent to bangalore	Sent date 27/Feb
+1901020000937	Delhi	not working	Sent to bangalore	Sent date 27/Feb
+1901020000934	Gurgaon	Not working	Sent to bangalore	Sent date 27/Feb
