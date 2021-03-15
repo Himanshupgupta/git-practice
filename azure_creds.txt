@@ -1,0 +1,6 @@
+{
+"string_gateway_id": "tbx-fx-A08190122",
+"string_iothub_sas_key": "SharedAccessSignature sr=tbox-hub-fas.azure-devices.net%2Fdevices%2Ftbx-fx-A08190122&sig=ANoxrIdY9nfDxf8%2F%2FJo2h2wLmMbIiQWYTUvA%2FIQmI%2Bo%3D&se=1646291206",
+"string_iothub_host": "tbox-hub-fas.azure-devices.net",
+"string_ip_address": "faasos.tagbox.in:8080"
+}
